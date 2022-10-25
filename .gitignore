@@ -1,0 +1,5 @@
+# Sphinx Build
+docs/build/
+
+# Python3 Virtual Environment
+.venv/
